@@ -1,0 +1,4 @@
+# This is the Pegex grammar for ypath
+
+ypath:
+    /~Your grammar goes here~/
