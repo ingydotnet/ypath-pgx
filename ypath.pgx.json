@@ -1,0 +1,6 @@
+{
+   "+toprule" : "ypath",
+   "ypath" : {
+      ".rgx" : "\\s*Yourgrammargoeshere\\s*"
+   }
+}
